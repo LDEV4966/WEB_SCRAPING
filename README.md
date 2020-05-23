@@ -10,7 +10,7 @@
 At the last , i made a file of the type of 'csv' from jobs_data (convert_jobs_to_csv)
 Then, i dragged that file into my google sheets 
 
-## Screenshots ### (goole_sheet)
+## Screenshots(goole_sheet)
 -------------
 
 <div>
